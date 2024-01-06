@@ -46,3 +46,4 @@ Ex: Outdegree(2) = 0
 **Path**: 1 3 4 (One possibility)
 
 **Cyclic**: It's a directed cyclic graph (3->4->3 is a cycle).
+/* we can add a program too */
